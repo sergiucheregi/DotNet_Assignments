@@ -1,0 +1,6 @@
+/Users/sergiu.cheregi/Documents/WorkRelated/9_Learning_Net/Repo/DotNet_Assignments/Assignment_001/bin/Debug/Assignment_001.exe
+/Users/sergiu.cheregi/Documents/WorkRelated/9_Learning_Net/Repo/DotNet_Assignments/Assignment_001/bin/Debug/Assignment_001.pdb
+/Users/sergiu.cheregi/Documents/WorkRelated/9_Learning_Net/Repo/DotNet_Assignments/Assignment_001/obj/anycpu/Debug/Assignment_001.csproj.AssemblyReference.cache
+/Users/sergiu.cheregi/Documents/WorkRelated/9_Learning_Net/Repo/DotNet_Assignments/Assignment_001/obj/anycpu/Debug/Assignment_001.csproj.CoreCompileInputs.cache
+/Users/sergiu.cheregi/Documents/WorkRelated/9_Learning_Net/Repo/DotNet_Assignments/Assignment_001/obj/anycpu/Debug/Assignment_001.exe
+/Users/sergiu.cheregi/Documents/WorkRelated/9_Learning_Net/Repo/DotNet_Assignments/Assignment_001/obj/anycpu/Debug/Assignment_001.pdb
